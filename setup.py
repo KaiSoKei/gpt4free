@@ -44,6 +44,7 @@ EXTRA_REQUIRE = {
         "odfpy",
         "ebooklib",
         "openpyxl",
+        "aiofiles",
     ],
     'slim': [
         "curl_cffi>=0.6.2",
